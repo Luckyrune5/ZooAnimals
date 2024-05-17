@@ -1,5 +1,4 @@
-[
-  {
+{
     "id": 1,
     "name": "Leo",
     "description": "Leo is a majestic lion, known for his impressive mane and regal demeanor.",
@@ -389,4 +388,3 @@
     "food": ["fruits", "nuts", "seeds"],
     "habitatId": 109
   }
-]
