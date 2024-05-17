@@ -1,0 +1,65 @@
+[
+  {
+    "id": 101,
+    "name": "Savannah Exhibit",
+    "location": "Zone A",
+    "area": "2000 sq meters",
+    "hasWaterFeature": true
+  },
+  {
+    "id": 102,
+    "name": "Elephant Enclosure",
+    "location": "Zone B",
+    "area": "5000 sq meters",
+    "hasWaterFeature": true
+  },
+  {
+    "id": 103,
+    "name": "Grasslands",
+    "location": "Zone A",
+    "area": "3000 sq meters",
+    "hasWaterFeature": false
+  },
+  {
+    "id": 104,
+    "name": "Treetop Enclosure",
+    "location": "Zone C",
+    "area": "1000 sq meters",
+    "hasWaterFeature": false
+  },
+  {
+    "id": 105,
+    "name": "Grasslands",
+    "location": "Zone A",
+    "area": "3000 sq meters",
+    "hasWaterFeature": false
+  },
+  {
+    "id": 106,
+    "name": "River Exhibit",
+    "location": "Zone M",
+    "area": "1000 sq meters",
+    "hasWaterFeature": true
+  },
+  {
+    "id": 107,
+    "name": "Birds of Prey Exhibit",
+    "location": "Zone O",
+    "area": "1500 sq meters",
+    "hasWaterFeature": true
+  },
+  {
+    "id": 108,
+    "name": "Bird Garden",
+    "location": "Zone I",
+    "area": "1200 sq meters",
+    "hasWaterFeature": true
+  },
+  {
+    "id": 109,
+    "name": "Bird Aviary",
+    "location": "Zone F",
+    "area": "1500 sq meters",
+    "hasWaterFeature": true
+  }
+]
