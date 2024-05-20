@@ -41,12 +41,12 @@
   {
     "id": 4,
     "name": "Ella",
-    "description": "https://raw.githubusercontent.com/Luckyrune5/ZooAnimals/main/lion.webp",
+    "description": "Ella is an elegant elephant who loves to splash in the water.",
     "age": 15,
     "gender": "female",
     "isEndangered": true,
     "birthDate": "2009-03-12",
-    "imageUrl": "http://example.com/images/ella_elephant.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Luckyrune5/ZooAnimals/main/lion.webp",
     "species": "elephant",
     "food": ["grass", "fruits", "vegetables"],
     "habitatId": 102
